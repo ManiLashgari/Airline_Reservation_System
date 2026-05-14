@@ -6,7 +6,7 @@ This project was an educational project developed by the AIM startup for the Pyt
 
 #### 👨‍💻 Developers:
 
-[Daniyal Iran Mehr](https://github.com/DaniaylIranMehr) (Supervisor)
+[Daniyal Iran Mehr](https://github.com/DaniyalIranMehr) (Supervisor)
 
 Mani Lashgari
 
